@@ -1,5 +1,5 @@
 # Blogs-PHP-website
-[website](https://sunnyshahblogs.000webhostapp.com/)
+link : <a href="https://sunnyshahblogs.000webhostapp.com/">https://sunnyshahblogs.000webhostapp.com/</a>
 
 A Website where viewers can read the posts and authors can publish thier posts from the admin dashboard, built using HTML,Bootstrap,PHP,Javscript
 
