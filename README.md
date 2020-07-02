@@ -10,5 +10,7 @@ A Website where viewers can read the posts and authors can publish thier posts f
   </tr>
   <tr>
     <td><img src="screenshots/3.JPG" width="500" height="300"></td>
+    <td><img src="screenshots/4.JPG" width="500" height="300"></td>
+    <td><img src="screenshots/5.JPG" width="500" height="300"></td>
   </tr>
 </table>
