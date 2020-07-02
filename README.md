@@ -5,3 +5,5 @@ A Website where viewers can read the posts and authors can publish thier posts f
 
 ![](screenshots/1.JPG)
 <img src="screenshots/2.JPG" width="400" height="300">
+
+<img src="screenshots/3.JPG" width="400" height="300">
